@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicOfNotification</string>
+    <string name="image_of_song">Image of Song</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_of_music">Image of music</string>
+    <string name="artist_music">Hương Tràm</string>
+    <string name="title_music">Duyên mình lỡ</string>
+    <string name="play_and_pause">play and pause</string>
+    <string name="previous">previous button</string>
+    <string name="skip_forwards">Skip forwards</string>
+    <string name="close_notification">close notification</string>
+    <string name="album_music">Album song</string>
+    <string name="next">next button</string>
+</resources>
